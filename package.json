@@ -1,0 +1,85 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "emoji-finder",
+  "title": "Emoji Finder",
+  "description": "Find the right emoji by describing it. Semantic search over 1,870 emojis, powered by Upstash Redis Vector.",
+  "icon": "extension-icon.png",
+  "author": "REPLACE_WITH_RAYCAST_HANDLE",
+  "categories": [
+    "Productivity",
+    "Developer Tools"
+  ],
+  "keywords": [
+    "emoji",
+    "semantic search",
+    "upstash",
+    "redis",
+    "vector"
+  ],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "search-emojis",
+      "title": "Search Emojis",
+      "subtitle": "Emoji Finder",
+      "description": "Describe an emoji and paste the best match.",
+      "mode": "view"
+    }
+  ],
+  "preferences": [
+    {
+      "name": "upstashRedisRestUrl",
+      "title": "Upstash Redis REST URL",
+      "description": "REST URL of an Upstash Redis database seeded with `npm run seed`.",
+      "type": "textfield",
+      "required": false,
+      "placeholder": "https://your-database.upstash.io"
+    },
+    {
+      "name": "upstashRedisRestToken",
+      "title": "Upstash Redis REST Token",
+      "description": "A read-only token is enough.",
+      "type": "password",
+      "required": false
+    },
+    {
+      "name": "openaiApiKey",
+      "title": "OpenAI API Key",
+      "description": "Embeds your query with text-embedding-3-small.",
+      "type": "password",
+      "required": false
+    },
+    {
+      "name": "proxyUrl",
+      "title": "Search Proxy URL",
+      "description": "Optional. A server that answers GET /api/search-emojis?q=&topK= and holds the keys itself. Used when the three fields above are empty.",
+      "type": "textfield",
+      "required": false,
+      "placeholder": "https://emoji-search.example.com"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^2.9.0",
+    "@raycast/utils": "^2.3.3",
+    "@upstash/redis": "^1.40.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@raycast/eslint-config": "^2.2.0",
+    "@types/node": "22.19.17",
+    "@types/react": "19.0.10",
+    "eslint": "^9.39.4",
+    "prettier": "^3.9.10",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build": "ray build",
+    "dev": "ray develop",
+    "fix-lint": "ray lint --fix",
+    "lint": "ray lint",
+    "build:emojis": "node scripts/build-emojis.mjs",
+    "seed": "node --env-file=.env scripts/seed.mjs",
+    "prepublishOnly": "echo \"\\n\\nIt seems like you are trying to publish the Raycast extension to npm.\\n\\nIf you did intend to publish it to npm, remove the \\`prepublishOnly\\` script and rerun \\`npm publish\\` again.\\nIf you wanted to publish it to the Raycast Store instead, use \\`npm run publish\\` instead.\\n\\n\" && exit 1",
+    "publish": "npx @raycast/api@latest publish"
+  }
+}

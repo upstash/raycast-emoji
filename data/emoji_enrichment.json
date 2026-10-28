@@ -1,0 +1,376 @@
+{
+  "🚀": [
+    "product launch",
+    "launch day",
+    "shipping",
+    "ship it",
+    "deploy to production",
+    "going live",
+    "release day",
+    "takeoff",
+    "fast growth"
+  ],
+  "🎉": [
+    "celebrating",
+    "celebration",
+    "launch party",
+    "congrats",
+    "we shipped it",
+    "hooray",
+    "success"
+  ],
+  "🎊": [
+    "celebration",
+    "congratulations",
+    "launch celebration",
+    "festive success",
+    "we did it"
+  ],
+  "🍾": [
+    "celebrating a win",
+    "popping champagne",
+    "launch celebration",
+    "milestone reached",
+    "cheers to the team"
+  ],
+  "🥂": [
+    "cheers",
+    "toast to success",
+    "celebrating the launch",
+    "congratulations",
+    "raise a glass"
+  ],
+  "🏆": [
+    "winning",
+    "achievement",
+    "success",
+    "milestone reached",
+    "champion",
+    "successful launch",
+    "launch celebration",
+    "big win"
+  ],
+  "✨": [
+    "shiny new feature",
+    "something new",
+    "fresh release",
+    "magic",
+    "celebration sparkle",
+    "polish",
+    "launch celebration",
+    "launch sparkle"
+  ],
+  "🥳": [
+    "celebrating",
+    "launch party",
+    "party time",
+    "birthday",
+    "we did it"
+  ],
+  "🙌": [
+    "hooray",
+    "we did it",
+    "celebrating together",
+    "praise",
+    "high hopes"
+  ],
+  "🔥": [
+    "on fire",
+    "production servers burning",
+    "production is burning",
+    "everything is on fire",
+    "lit",
+    "trending",
+    "hot",
+    "servers burning down"
+  ],
+  "🐛": [
+    "software bug",
+    "debugging",
+    "fixing bugs",
+    "bug report",
+    "glitch",
+    "error in the code",
+    "debugging past midnight",
+    "bug hunting",
+    "squashing bugs"
+  ],
+  "🪲": [
+    "bug",
+    "debugging",
+    "fixing bugs",
+    "glitch"
+  ],
+  "🤞": [
+    "fingers crossed",
+    "hoping it works",
+    "risky deploy",
+    "fingers crossed for the release",
+    "good luck",
+    "deploying on friday",
+    "friday deploy",
+    "hoping the deployment succeeds"
+  ],
+  "🙏": [
+    "please work",
+    "praying the deploy goes fine",
+    "hoping for the best",
+    "thank you",
+    "please",
+    "shipping right before the weekend and hoping nothing breaks",
+    "please let this release work"
+  ],
+  "😬": [
+    "yikes",
+    "nervous",
+    "risky friday deploy",
+    "awkward",
+    "uh oh",
+    "this might break",
+    "pushing to production before the weekend",
+    "nervous about a friday deploy",
+    "friday afternoon release"
+  ],
+  "😅": [
+    "nervous relief",
+    "close call",
+    "phew",
+    "awkward laugh"
+  ],
+  "☕": [
+    "coffee",
+    "caffeine",
+    "fuel for coding late at night",
+    "all-nighter",
+    "coffee break",
+    "morning",
+    "debugging past midnight",
+    "coffee-fueled coding"
+  ],
+  "🦉": [
+    "night owl",
+    "staying up late",
+    "coding at night",
+    "all-nighter",
+    "awake at night",
+    "debugging past midnight",
+    "night owl coding session"
+  ],
+  "🌙": [
+    "late at night",
+    "nighttime",
+    "night shift",
+    "working late",
+    "midnight",
+    "bedtime",
+    "debugging past midnight",
+    "coding at midnight"
+  ],
+  "💻": [
+    "coding",
+    "programming",
+    "working late on the laptop",
+    "developer",
+    "debugging",
+    "fixing bugs",
+    "writing code",
+    "debugging past midnight",
+    "late-night coding session"
+  ],
+  "🌃": [
+    "late at night",
+    "city at night",
+    "night shift",
+    "working late",
+    "all-nighter"
+  ],
+  "🧑‍💻": [
+    "developer",
+    "coding",
+    "programming",
+    "deploying code",
+    "software engineer",
+    "debugging",
+    "writing code",
+    "pushing to production before the weekend",
+    "pushing code",
+    "debugging past midnight",
+    "coding all night"
+  ],
+  "👨‍💻": [
+    "developer",
+    "coding",
+    "programming",
+    "deploying code",
+    "software engineer",
+    "debugging"
+  ],
+  "👩‍💻": [
+    "developer",
+    "coding",
+    "programming",
+    "deploying code",
+    "software engineer",
+    "debugging"
+  ],
+  "🤯": [
+    "totally amazed",
+    "shocked",
+    "amazed",
+    "can't believe it",
+    "wow",
+    "mind-blowing"
+  ],
+  "⚡": [
+    "electrifying",
+    "mind-blowing",
+    "energy",
+    "lightning fast",
+    "powerful",
+    "shock",
+    "totally amazed",
+    "blown away",
+    "electric shock of amazement",
+    "jaw-dropping",
+    "my mind is blown",
+    "sudden shock of awe"
+  ],
+  "🧠": [
+    "mind",
+    "big brain",
+    "genius idea",
+    "smart",
+    "thinking",
+    "totally amazed",
+    "blown mind",
+    "brain explosion",
+    "my mind is blown",
+    "mind-blowing idea"
+  ],
+  "🤩": [
+    "amazed",
+    "wow",
+    "starstruck",
+    "totally amazed",
+    "so excited",
+    "impressed",
+    "blown away",
+    "mind-blowing",
+    "jaw-dropping",
+    "speechless with excitement",
+    "my mind is blown"
+  ],
+  "😱": [
+    "shocked",
+    "omg",
+    "horror",
+    "panic",
+    "screaming",
+    "totally amazed",
+    "blown away",
+    "jaw-dropping shock"
+  ],
+  "💸": [
+    "money flying away",
+    "spending money",
+    "expensive",
+    "losing money",
+    "big cloud bill",
+    "burning cash"
+  ],
+  "🚨": [
+    "alert",
+    "emergency",
+    "incident",
+    "production outage",
+    "alarm",
+    "on-call page",
+    "server down",
+    "production servers burning",
+    "servers are down",
+    "pager alert at night",
+    "red alert"
+  ],
+  "🚒": [
+    "firefighting",
+    "putting out fires",
+    "incident response",
+    "emergency",
+    "production servers burning",
+    "firefighting an outage"
+  ],
+  "🫠": [
+    "melting down",
+    "overwhelmed",
+    "server meltdown",
+    "everything is falling apart",
+    "this is fine",
+    "production servers burning",
+    "meltdown",
+    "the server is melting"
+  ],
+  "🧯": [
+    "putting out fires",
+    "incident response",
+    "fire extinguisher",
+    "fixing the outage"
+  ],
+  "💥": [
+    "crash",
+    "explosion",
+    "breaking",
+    "it broke",
+    "outage"
+  ],
+  "🖥️": [
+    "server",
+    "desktop computer",
+    "machine",
+    "data center",
+    "production server"
+  ],
+  "🛠️": [
+    "fixing",
+    "repair",
+    "debugging",
+    "tools",
+    "maintenance"
+  ],
+  "🔧": [
+    "fixing",
+    "repair",
+    "debugging",
+    "tweaking"
+  ],
+  "✅": [
+    "done",
+    "shipped",
+    "tests passing",
+    "approved",
+    "complete"
+  ],
+  "🍕": [
+    "late night food",
+    "hackathon fuel",
+    "pizza party"
+  ],
+  "😴": [
+    "sleepy",
+    "tired",
+    "need sleep",
+    "boring"
+  ],
+  "📅": [
+    "calendar",
+    "schedule",
+    "friday",
+    "deadline",
+    "date"
+  ],
+  "💀": [
+    "dead",
+    "i'm dead",
+    "it's so over",
+    "dying of laughter"
+  ]
+}
